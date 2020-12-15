@@ -10801,4 +10801,27 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+header > aside,
+section {
+  padding: 1rem;
+}
+
+header {
+  background-color: #e5e5e5;
+}
+
+main > section {
+  border: #ccc 0.5rem solid;
+}
+
+footer {
+  padding: 1rem;
+  background-color: #e5e5e5;
+}
+
+body > aside {
+  padding: 1rem;
+  background-color: rosybrown;
+}
 /*# sourceMappingURL=styles.css.map */
